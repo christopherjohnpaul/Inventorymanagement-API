@@ -1,0 +1,5 @@
+﻿https://medium.com/oppr/net-core-using-entity-framework-core-in-a-separate-project-e8636f9dc9e5
+
+https://blog.jetbrains.com/dotnet/2020/11/25/getting-started-with-entity-framework-core-5/
+
+https://www.ezzylearning.net/tutorial/data-access-in-asp-net-core-using-ef-core-code-first
